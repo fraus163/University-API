@@ -52,7 +52,7 @@
 
 ### 1. Клонирование репозитория
 
-git clone [https://github.com/your-username/university-api.git](https://github.com/your-username/university-api.git)
+git clone [https://github.com/fraus163/university-api.git](https://github.com/your-username/university-api.git)
 cd university-api
 
 ### 2. Настройка переменных окружения (.env)
